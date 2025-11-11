@@ -71,14 +71,6 @@ const players =[
         age: 22 ,
         img: "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/11/mixcollage-28-nov-2024-09-09-am-243.jpg?q=49&fit=crop&w=800&dpr=2" 
     },
-    {
-        name: "Mohamed Salah" ,
-        team: "Liverpool and Egypt" ,
-        nationality: "Egyptian " ,
-        jersey: "11/10" ,
-        age: 33 ,
-        img: "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2025/08/mixcollage-14-aug-2025-10-10-pm-3679.jpg?q=49&fit=crop&w=800&dpr=2" 
-    },
-
+    
 ];
 export default players;
