@@ -11,7 +11,7 @@ This project fulfills the following requirements:
     Created using create-react-app.
 
 2.Data
-    -A file named players.js contains an array of player objects (at least four).
+    -A file named players.js contains an array of player objects (10).
 
     -Each player object includes:
         -name
